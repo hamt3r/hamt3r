@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm a Web Security Researcher
 
-<!--
-**hamt3r/hamt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent security researcher focused on identifying real-world vulnerabilities in web applications.
 
-Here are some ideas to get you started:
+## 🔍 Areas of Interest
+- Authentication & Authorization
+- Business Logic Flaws
+- Account Takeover Scenarios
+- API Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+- Bug bounty hunting
+- Proof of Concept development
+- Responsible vulnerability disclosure
+
+## 📂 Research & Notes
+- Public research notes and PoCs are available in my repositories
+- All testing is performed on in-scope and authorized targets only
+
+## 📫 Contact
+- GitHub Issues (for collaboration or questions)
+
+---
+*Security is not about tools, it's about understanding how systems fail.*
